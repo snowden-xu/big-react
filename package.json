@@ -9,6 +9,7 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
+	"devDependencies": {
 		"@typescript-eslint/eslint-plugin": "^5.28.0",
 		"@typescript-eslint/parser": "^5.28.0",
 		"eslint": "^8.17.0",
@@ -17,5 +18,8 @@
 		"husky": "^8.0.1",
 		"@commitlint/cli": "^17.0.2",
 		"@commitlint/config-conventional": "^17.0.2",
-		"commitlint": "^17.0.2"
+		"commitlint": "^17.0.2",
+		"eslint-config-prettier": "^8.5.0",
+		"eslint-plugin-prettier": "^4.0.0"
+	}
 }
